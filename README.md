@@ -10,7 +10,7 @@ The main aim of the Project was to perform Exploratory Data Analysis and Perform
 
 Based on the Problem statement aanrget variable, we can conclude that we should use classification algorithm in this project.
 
-Imported various Python libraries such as Pandas, NumPy, Seaborn and Matplotlib into Google Collab and Readed the Health insurance dataset using read_csv() function .we gone ahead in observing the dataset's unique values in every column separately.
+Imported various Python libraries such as Pandas, NumPy, Seaborn and Matplotlib into Google Collab and Readed the insurance dataset using read_csv() function .we gone ahead in observing the dataset's unique values in every column separately.
 
 While observing every column separately, we observed the values which are wrongly typed or in some values in which the values should be dropped, we cleaned the data accordingly.
 
